@@ -1,0 +1,4 @@
+node_modules
+static/image/frame/*.jpg
+static/share/video/*
+.nuxt/
